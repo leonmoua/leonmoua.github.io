@@ -19,12 +19,37 @@ h1 {
 }
 
 .contact-body {
-    textgit -align: center;
+    text-align: center;
     font-size: 1.6rem;
     border:5px solid rgb(95, 158, 230);
     border-radius: 30px;
     padding-bottom: 10px;
+    padding-top: 10px;
 }
 
+nav {
+    padding-bottom: 10px;
+}
 
+button {
+    font-size: 2.4rem;
+    background: none;
+    border: 2px solid rgb(95, 158, 230);
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited a:hover a:active{
+    text-decoration: none;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+}
 
