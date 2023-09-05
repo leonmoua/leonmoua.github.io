@@ -42,10 +42,12 @@ button {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 a:visited a:hover a:active{
     text-decoration: none;
+    color: black;
 }
 
 ul {
